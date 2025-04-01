@@ -1,28 +1,38 @@
+
+
+
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://github.com/wondeng/my-depo/blob/main/README.md",
+  "title": "Wonden's Terminal",
+  "name": "Wonden Gyatso",
+  "ascii": "wonden",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "wondeng",
+    "linkedin": "https://www.linkedin.com/in/wonden/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "gwonden@gmail.com",
+  "ps1_hostname": "wonden",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/wondeng/my-depo",
+  "resume_url": "/Wonden%20Gyatso's%20Internship%20Resume%20(1).pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/yourname",
+    "patreon": "https://patreon.com/yourpage"
   },
+  "welcomeMessage": [
+  "Hey, this is Wonden 👋",
+  "Type 'help' to explore my resume, projects, or contact info.",
+  ""
+]
+,
+  
   "colors": {
     "light": {
       "background": "#FBF1C9",
       "foreground": "#3C3836",
       "yellow": "#D79921",
       "green": "#98971A",
-      "gray": "#7C6F64",
+      "gray": "#7c7c64",
       "blue": "#458588",
       "red": "#CA2124"
     },
@@ -32,7 +42,7 @@
       "yellow": "#5E81AC",
       "green": "#A3BE8C",
       "gray": "#88C0D0",
-      "blue": "#EBCB8B",
+      "blue": "#81A1C1",
       "red": "#BF616A"
     }
   }
