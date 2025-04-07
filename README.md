@@ -48,3 +48,9 @@ git clone https://github.com/wondeng/Mrgyatso_depository.git
 cd Mrgyatso_depository
 npm install
 npm run dev
+
+---
+Acknowledgements
+
+This project was inspired by LiveTerm - Vincent Wu .
+
