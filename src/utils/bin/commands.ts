@@ -30,12 +30,16 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I am ${config.name}. 
-Welcome to my website!
-More about me:
-'sumfetch' - short summary.
-'resume' - my latest resume.
-'readme' - my github readme.`;
+  return `
+Fun fact: I’m named after Monk Gyatso from *Avatar: The Last Airbender* 
+
+I’m Wonden Gyatso, a CS student at NYU who builds projects that b(l)ends AI, design, and storytelling.
+
+My goal is to make technology feel a little more personal. Whether that’s through real-time voice agents,
+language-learning tools, or creative apps.
+
+Type 'help' to explore more of my work or 'projects' to see what I’ve been building lately.
+  `;
 };
 
 export const resume = async (args: string[]): Promise<string> => {

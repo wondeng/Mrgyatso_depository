@@ -10,17 +10,13 @@
     "github": "wondeng",
     "linkedin": "https://www.linkedin.com/in/wonden/"
   },
-  "email": "gwonden@gmail.com",
+  "email": "wg823@nyu.edu",
   "ps1_hostname": "wonden",
   "ps1_username": "visitor",
   "repo": "https://github.com/wondeng/my-depo",
-  "resume_url": "/Wonden%20Gyatso's%20Internship%20Resume%20(1).pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/yourname",
-    "patreon": "https://patreon.com/yourpage"
-  },
+  "resume_url": "/resume.pdf",
   "welcomeMessage": [
-  "Hey, this is Wonden 👋",
+  "Hey, this is Wonden",
   "Type 'help' to explore my resume, projects, or contact info.",
   ""
 ]
